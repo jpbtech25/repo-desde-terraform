@@ -27,10 +27,10 @@ variable "github_token" {
   sensitive   = true  # Esto evita que el token se imprima en la pantalla durante el apply
 }
 
-variable "access key" { 
+variable "access_key" { 
 
 }
 
-variable "secret key" {
+variable "secret_key" {
   
 }
